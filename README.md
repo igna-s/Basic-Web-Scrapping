@@ -1,6 +1,6 @@
 # 🎓 **Web Scraping Notes Repository**
 
-Welcome to the **Web Scraping Repository**! 
+Welcome to the **Introduction to Web Scraping Repository**! 
 
 ---
 
