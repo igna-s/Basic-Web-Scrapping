@@ -19,3 +19,5 @@ Welcome to the **Web Scraping Repository**!
 
 ---
 
+***Includes Chromedriver.exe (for Selenium WebDriver)***
+
